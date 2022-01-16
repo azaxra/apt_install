@@ -1,4 +1,5 @@
 lolcat
 cowsay
-proot
-sysbench
+ffmpeg
+aria2
+
